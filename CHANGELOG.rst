@@ -2,26 +2,14 @@
 Changelog for package test_interface_files
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.15.0 (2026-05-05)
+0.11.1 (2026-06-03)
 -------------------
-
-0.14.1 (2025-07-01)
--------------------
-* Update CMakeLists.txt (`#26 <https://github.com/ros2/test_interface_files/issues/26>`_)
-* Contributors: mosfet80
-
-0.14.0 (2025-04-24)
--------------------
-* Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#23 <https://github.com/ros2/test_interface_files/issues/23>`_)
-* Contributors: Chris Lalancette
-
-0.13.0 (2024-11-20)
--------------------
-* Drop long double from the IDL. (`#22 <https://github.com/ros2/test_interface_files/issues/22>`_)
-* Contributors: Chris Lalancette
-
-0.12.0 (2024-04-29)
--------------------
+* Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#23 <https://github.com/ros2/test_interface_files/issues/23>`_) (`#24 <https://github.com/ros2/test_interface_files/issues/24>`_)
+  They are both out of date, and both no longer serving their
+  intended purpose.
+  (cherry picked from commit 25d4b699e4bcd28ab4d900dd73540ea341b8c508)
+  Co-authored-by: Chris Lalancette <clalancette@gmail.com>
+* Contributors: mergify[bot]
 
 0.11.0 (2023-04-28)
 -------------------
